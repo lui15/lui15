@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/20171549-e635-4393-b856-2075788572a3)
+![image](https://github.com/user-attachments/assets/6b5ea850-f513-45d5-a9b9-bebee51d4c75)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Luis Pichardo</h2>
 
